@@ -1,0 +1,9 @@
+code to search list for 2**5
+
+"""
+L=[]
+for i in range(7):
+    L.append(2**i)
+X=5
+
+if 2**X in L:
